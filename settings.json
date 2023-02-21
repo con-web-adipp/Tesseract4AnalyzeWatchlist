@@ -1,0 +1,41 @@
+﻿[
+  {
+    "Id": "5c5a3888-25f2-4075-9ef0-3143300ae881",
+    "FriendlyName": "Tesseract4AnalyzeWatchlist",
+    "ExecutableFilePath": "Tesseract4AnalyzeWatchlist.exe",
+    "ExecutableArguments": "",
+    "UseJsonInput": true,
+    "JsonInputFields": [
+      37,
+      32
+    ],
+    "MaxSimultaneousInstances": 0,
+    "WaitForExit": true,
+    "ParseOutput": true,
+    "ShouldWriteErrorLog": true,
+    "ExecutionTypes": 3,
+    "AutoStart": false,
+    "ForceTermination": true,
+    "SupportsBatchProcessing": true,
+    "MaxBatchSize": 10000,
+    "FileClassFilter": [],
+    "Description": "",
+    "IconPath": "",
+    "OdtFilePaths": [],
+    "Requirements": "",
+    "Vendor": "",
+    "TimeoutForExecution": 0,
+    "Version": "1.0.1",
+    "ProductName": "Tesseract4AnalyzeWatchlist",
+    "FileFilterSettings": {
+      "MinWidth": null,
+      "MinHeight": null,
+      "MinSize": null,
+      "MaxSize": null,
+      "IncludeCategorized": true,
+      "IncludeUncategorized": true
+    },
+    "CustomProperties": [],
+    "ShowInForensicMarket": true
+  }
+]
